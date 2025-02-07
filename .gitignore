@@ -1,0 +1,30 @@
+# Ignore Unity auto-generated files
+Library/
+Logs/
+UserSettings/
+Temp/
+*.csproj
+*.sln
+*.user
+*.DS_Store
+
+# Ignore Builds
+Build/
+Builds/
+*.apk
+*.exe
+
+# Ignore Large Unity Packages
+Assets/**/*.fbx
+Assets/**/*.psd
+Assets/**/*.png
+Assets/**/*.jpg
+Assets/**/*.mp4
+Assets/**/*.wav
+Assets/**/*.ogg
+
+# Ignore Visual Studio settings
+.vscode/
+*.suo
+*.user
+*.unityproj
